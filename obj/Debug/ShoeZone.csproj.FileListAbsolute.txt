@@ -1,0 +1,64 @@
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\bin\Debug\ShoeZone.exe.config
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\bin\Debug\ShoeZone.exe
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\bin\Debug\ShoeZone.pdb
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form1.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.exe
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.pdb
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\bin\Debug\Guna.UI2.dll
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.csproj.CopyComplete
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form2.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form3.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\bin\Debug\Guna.UI.dll
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form5.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.ayakkabiguncelle.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form4.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form6.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form7.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.cantaguncelle.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.saatguncelle.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.cüzdanguncelle.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form8.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form9.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form10.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form11.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form12.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form13.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form14.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone\obj\Debug\ShoeZone.Form15.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\bin\Debug\ShoeZone.exe.config
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\bin\Debug\ShoeZone.exe
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\bin\Debug\ShoeZone.pdb
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\bin\Debug\Guna.UI.dll
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\bin\Debug\Guna.UI2.dll
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.ayakkabiguncelle.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.cantaguncelle.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.cüzdanguncelle.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form1.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form10.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form11.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form12.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form13.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form14.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form15.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form2.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form3.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form4.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form5.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form6.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form7.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form8.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Form9.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.Properties.Resources.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.saatguncelle.resources
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.csproj.CopyComplete
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.exe
+C:\Users\Alperen\Desktop\Durali elal proje\ShoeZone - Kopya\obj\Debug\ShoeZone.pdb
